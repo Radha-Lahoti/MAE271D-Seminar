@@ -7,6 +7,5 @@ Implemented optimization-based collision avoidance for autonomous reverse parkin
 
 ### MPC:
 ![MPC+OBCA](mpc_trajectory.gif)
-
 ### One-shot OCP:
 ![OCP+OBCA](ocp_trajectory.gif)
